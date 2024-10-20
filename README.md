@@ -104,10 +104,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with Python and Tkinter
 - Inspired by the need for consistent folder organization across multiple devices
-
-## 📞 Support
-
-If you encounter any issues or have suggestions:
-
-1. Check the [Issues](https://github.com/YourUsername/FolderMirror/issues) page
-2. Create a new issue if your problem isn't already listed
